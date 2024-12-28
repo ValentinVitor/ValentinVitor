@@ -86,6 +86,22 @@ Sou o Vitor Valentin, um aspirante a desenvolvedor full-stack, onde no momento e
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
   />
+<img
+    align="left"
+    alt="Insomnia"
+    title="Insomnia"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
+  />
+<img
+    align="left"
+    alt="AmazonRDS"
+    title="AmazonRDS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+  />
 </br>
 
 ## 📈 Estatísticas
