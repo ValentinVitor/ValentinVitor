@@ -62,7 +62,7 @@ Sou o Vitor Valentin, um aspirante a desenvolvedor full-stack, onde no momento e
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
-  <img
+<img
     align="left"
     alt="NodeJS"
     title="NodeJS"
@@ -70,13 +70,21 @@ Sou o Vitor Valentin, um aspirante a desenvolvedor full-stack, onde no momento e
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
   />
-    <img
+<img
     align="left"
     alt="Git"
     title="Git"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
+<img
+    align="left"
+    alt="Flutter"
+    title="Flutter"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
   />
 </br>
 
