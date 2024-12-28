@@ -4,6 +4,8 @@
 
 Sou o Vitor Valentin, um aspirante a desenvolvedor full-stack, onde no momento estou cursando Eng. de Software. Também possuo interesses nas áreas de segurança e infraestrutura. Sempre em busca de aprendizado, seja por curiosidade ou por necessidade profissional.
 
+---
+
 ## 🛠 Tecnologias 
 
 <img
@@ -87,6 +89,8 @@ Sou o Vitor Valentin, um aspirante a desenvolvedor full-stack, onde no momento e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
   />
 </br>
+
+---
 
 ## 📈 Estatísticas
 
