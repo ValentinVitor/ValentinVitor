@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Sou o Vitor Valentin, um aspirante desenvolvedor full-stack, onde no momento estou cursando Eng. de Software. Também possuo interesses nas áreas de segurança e infraestrutura. Sempre em busca de aprendizado, onde na maior parte das vezes, é a curiosidade que me move.
+Sou o Vitor Valentin, um aspirante desenvolvedor full-stack, onde no momento estou cursando Eng. de Software. Também possuo interesses nas áreas de infraestrutura, segurança e suporte. Sempre em busca de aprendizado, onde na maior parte das vezes, é a curiosidade que me move.
 
 ## 🛠 Tecnologias 
 
